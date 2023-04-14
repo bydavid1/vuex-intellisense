@@ -1,14 +1,14 @@
 {
-  "name": "vuex-suggest",
-  "displayName": "Vuex Suggest",
-  "description": "Vuex suggest in Vue components",
+  "name": "vuex-intellisense",
+  "displayName": "Vuex Intellisense",
+  "description": "Vuex Intellisense in Vue components",
   "icon": "src/assets/vue.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mishannn/vuex-suggest"
+    "url": "https://github.com/bydavid1/vuex-intellisense"
   },
-  "version": "1.1.1",
-  "publisher": "mishannn",
+  "version": "1.0.0",
+  "publisher": "bydavid1",
   "keywords": [
     "vetur",
     "Vue",
@@ -17,7 +17,8 @@
     "Vuex",
     "vuex",
     "autocomplete",
-    "suggest"
+    "suggest",
+    "intellisense"
   ],
   "engines": {
     "vscode": "^1.36.0"
